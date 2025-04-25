@@ -1,5 +1,8 @@
 .env
-*.txt
+
 *.csv
 *.xls
 *.xlsx
+
+input/*
+output/*
